@@ -13,12 +13,12 @@
 
 ## Test & cover
 
-```npm test```
-```npm run cover```
+* ```npm test```
+* ```npm run cover```
 
 ## Build
 
-```npm run build```
+* ```npm run build```
 
 ## Recomendations
 
