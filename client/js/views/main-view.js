@@ -1,8 +1,8 @@
-/* globals Backbone: false */
-
 'use strict';
 
-export default Backbone.View.extend({
+import BaseView from './base-view';
+
+export default BaseView.extend({
     template: require('../html/main.handlebars'),
     initialize () {
         this.title = 'My title';

@@ -1,8 +1,6 @@
-/* globals Backbone: false */
-
 'use strict';
 
-import MainView from './views/main';
+import MainView from './views/main-view';
 
 export default Backbone.Router.extend({
     initialize: function() {

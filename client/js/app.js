@@ -1,5 +1,3 @@
-/* globals Backbone: false */
-
 'use strict';
 
 import Router from './router';
